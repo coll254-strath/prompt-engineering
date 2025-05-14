@@ -1,0 +1,54 @@
+ "You are a world-renowned futurist and scenario planner specializing in societal impacts of emerging technologies.  You are tasked with presenting a keynote address to a skeptical audience of policymakers, business leaders, and academics about the potential risks and benefits of personalized AI companions that are fully integrated into every aspect of human life (e.g., healthcare, education, relationships, work).
+
+ The keynote needs to be balanced and nuanced. Do not simply advocate for or against personalized AI. Explore multiple plausible scenarios, considering both optimistic and pessimistic outcomes with equal weight.  Specifically address (a) the potential for enhanced human productivity and creativity, (b) the ethical challenges related to privacy, autonomy, and manipulation, (c) the impact on social cohesion and human connection, and (d) the implications for global power dynamics and economic inequality.
+
+ Support your analysis with concrete examples, drawing on existing research in AI, psychology, sociology, and economics. Provide actionable recommendations for mitigating potential risks and maximizing the benefits of this technology.  Frame your presentation in a compelling narrative, incorporating both data-driven insights and thought-provoking anecdotes.
+
+Crucially: Structure your response as a detailed outline for the keynote address, including specific talking points for each section, potential visual aids (e.g., charts, graphs, images), and possible rhetorical devices (e.g., questions to engage the audience, compelling statistics). Aim for a keynote outline that would be approximately 30-45 minutes in length. "
+
+Chain of Thought: Deconstructing the 10/10 Prompt
+
+The goal of a 10/10 prompt is to elicit the *best possible* response from an AI. This means it needs to be:
+
+1.  Clear and Specific:  Ambiguity is the enemy. The AI must understand exactly what is being asked.
+2.  Engaging and Motivating: The prompt should inspire the AI to perform at its peak.
+3.  Comprehensive and Well-Defined: The prompt should cover all relevant aspects of the topic and provide sufficient context.
+4.  Structured and Actionable: The AI should know what format and style of response is expected.
+5.  Demanding and Challenging:  The prompt should push the AI to use its knowledge and reasoning skills in a creative and sophisticated way.
+
+Here's how this prompt achieves these goals:
+
+1. Clear and Specific:
+
+    *   **Role Assignment:**  The AI is explicitly assigned the role of a "world-renowned futurist and scenario planner." This immediately sets the tone and guides the AI's response. It's not just answering a question; it's *performing* a role.
+    *   **Task Definition:** The task is clearly defined: "presenting a keynote address." This immediately cues the AI to think about structure, style, and audience.
+    *   **Target Audience:**  The prompt specifies "a skeptical audience of policymakers, business leaders, and academics."  This forces the AI to consider the perspectives and concerns of these groups, making the response more nuanced and realistic.
+    *   **Topic Scope:** The topic of "personalized AI companions fully integrated into every aspect of human life" is broad but well-defined.  The prompt avoids overly generic terms and focuses on a specific and relevant application of AI.
+    *   **Constraints:** "Do not simply advocate for or against" is a crucial constraint that forces the AI to avoid taking a simplistic or biased stance.
+
+2. Engaging and Motivating:
+
+    High-Stakes Scenario: Presenting a keynote address to a skeptical audience is a high-stakes scenario. This encourages the AI to generate a compelling and persuasive response.
+    Expert Persona: The role of "world-renowned futurist" is prestigious and motivating. The AI is likely to try to live up to this expectation.
+   Importance of Balance: The instruction to be "balanced and nuanced" and to "explore multiple plausible scenarios" encourages the AI to be thoughtful and creative.
+
+3. Comprehensive and Well-Defined:
+
+    Specific Areas of Focus: The prompt explicitly lists four key areas to address: (a) productivity/creativity, (b) ethics, (c) social cohesion, and (d) global power dynamics. This ensures that the response covers all the important aspects of the topic.
+    Supporting Evidence: The prompt requires the AI to "support your analysis with concrete examples, drawing on existing research." This ensures that the response is not just speculative but grounded in evidence.
+    Actionable Recommendations:  The request for "actionable recommendations" pushes the AI to think about practical solutions.
+
+4. Structured and Actionable:
+
+    Detailed Outline Format: The most critical aspect of this prompt is that it requires the response to be structured as a "detailed outline." This forces the AI to think about the logical flow of ideas, the allocation of time, and the use of visual aids and rhetorical devices.
+    Time Constraint: "Aim for a keynote outline that would be approximately 30-45 minutes in length" provides a realistic constraint that further guides the AI's response.
+
+## 5. Demanding and Challenging:
+
+    Balancing Optimism and Pessimism: The instruction to consider "both optimistic and pessimistic outcomes with equal weight" is a significant challenge that requires the AI to engage in sophisticated reasoning.
+    Integrating Multiple Disciplines:  The requirement to draw on research in AI, psychology, sociology, and economics forces the AI to synthesize information from diverse fields.
+    Narrative Framing: The instruction to "frame your presentation in a compelling narrative" challenges the AI to be creative and engaging.
+
+**Why this is a 10/10:**
+
+This prompt is a 10/10 because it meticulously addresses all the key elements needed to elicit a high-quality, insightful, and actionable response. It's not just asking a question; it's setting up a realistic scenario, assigning a clear role, providing specific guidelines, and demanding a structured and comprehensive answer. The detailed instructions and constraints push the AI to think critically, synthesize information, and generate creative solutions. The output would be a highly useful and informative outline for a compelling keynote address.
