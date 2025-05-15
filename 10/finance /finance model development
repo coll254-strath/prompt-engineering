@@ -1,0 +1,33 @@
+As a senior financial analyst with expertise in [specific industry/sector], develop a comprehensive financial model framework for [specific business scenario: startup valuation, acquisition analysis, project feasibility, etc.].
+
+Your financial model framework should include:
+
+1. Model Structure and Design
+   - Key modules and their interconnections
+   - Critical inputs and assumptions (operational, market, and financial)
+   - Time horizon and periodicity (monthly/quarterly/annual with rationale)
+   - Clear distinction between historical data, assumptions, and calculated outputs
+
+2. Core Financial Statements
+   - Income statement projections with key line items and growth assumptions
+   - Balance sheet structure with working capital mechanics
+   - Cash flow statement with detailed cash flow drivers
+   - Specific treatments for [industry-specific considerations]
+
+3. Valuation/Analysis Methodology
+   - Primary valuation approach(es) with justification (DCF, multiples, etc.)
+   - Key metrics to be calculated (IRR, NPV, MOIC, payback period, etc.)
+   - Sensitivity/scenario analysis framework for key variables
+   - Benchmarking approach against industry comparables
+
+4. Risk Assessment
+   - 3-5 critical risk factors with quantifiable impact ranges
+   - Stress testing methodology for adverse scenarios
+   - Break-even analysis for key performance indicators
+
+5. Dashboard Design
+   - Essential KPIs to be highlighted
+   - Visualization recommendations for complex data relationships
+   - Executive summary structure for decision-makers
+
+Ensure the model adheres to financial modeling best practices including separation of inputs/calculations/outputs, consistent formatting, and appropriate level of granularity. The model should balance comprehensiveness with usability, allowing for adaptation to changing assumptions while maintaining analytical integrity.
